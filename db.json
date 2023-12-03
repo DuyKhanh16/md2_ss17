@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone",
+      "image": "https://firebasestorage.googleapis.com/v0/b/js09-1.appspot.com/o/images%2Fbieudo.png?alt=media&token=8379e010-c811-4185-b306-72099d88a51f"
+    },
+    {
+      "id": 2
+    },
+    {
+      "name": "fds",
+      "image": "https://firebasestorage.googleapis.com/v0/b/js09-1.appspot.com/o/images%2Fabout_bg.jpeg?alt=media&token=b1e6ced8-70ba-47a0-ad32-f7931861c61b",
+      "id": 3
+    }
+  ]
+}
